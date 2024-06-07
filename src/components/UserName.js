@@ -1,7 +1,7 @@
 const UserName = () => {
     return (
         <div>
-            <h1 className="header">Laura Smith</h1>
+            <h1 className="header">Omar Fahmy</h1>
         </div>
     )
 }

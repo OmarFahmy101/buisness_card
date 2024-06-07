@@ -69,9 +69,6 @@ code {
   border-radius: 6px;
   border: 1px;
 }
-.Buttons {
-
-}
 
 /* .linkedin{
   padding-top: 1.33px;
@@ -144,6 +141,9 @@ code {
   padding: 10px;
   background-color: #161619;
   color: white;
+}
+.footer a{
+  color:white;
 }
 .icon1 {
   height: 30px;

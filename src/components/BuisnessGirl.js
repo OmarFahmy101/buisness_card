@@ -3,7 +3,7 @@
 const BuisnessGirl = () => {
     return (
         <div>
-            <img src="buisness-girl.png" className="buisnessGirl" alt="BuisnessCard" />
+            <img src="Omar-Fahmy.jpg" className="buisnessGirl" alt="BuisnessCard" />
         </div>
     )
 }

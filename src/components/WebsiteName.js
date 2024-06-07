@@ -1,7 +1,7 @@
 const WebsiteName = () => {
     return (
         <div className="Buttons">
-            <h1 className="WebsiteComment">laurasmith.website</h1>
+            <h1 className="WebsiteComment">OmarFahmy.website</h1>
         </div>
     )
 }
