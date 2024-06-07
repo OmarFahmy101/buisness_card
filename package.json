@@ -1,6 +1,7 @@
 {
   "name": "buisness_card",
   "version": "0.1.0",
+  "homepage": "https://OmarFahmy101.github.io/buisness_card",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
@@ -21,7 +22,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": "https://OmarFahmy101.github.io/buisness_card",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
