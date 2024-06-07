@@ -1,4 +1,5 @@
 body {
+  background-color: #23252c;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +11,165 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.container {
+  width: 317px;
+  margin: 0 auto;
+  background-color: #1A1B21;;
+}
+
+.buisnessGirl {
+  height: 317px;
+  width: 317px;
+}
+.header {
+  color: aliceblue;
+  margin-top: -4px;
+  /* background-color:#1A1B21; */
+  text-align: center;
+}
+
+.SecondHeader {
+  color: #f3bf99;
+  font-size: 13px;
+  margin-top: -20px;
+  text-align: center;
+}
+.WebsiteComment {
+  font-size: 10.42px;
+  color: aliceblue;
+  /* margin-top: 20px; */
+  text-align: center;
+}
+
+.emailButton {
+  height: 34px;
+  width: 151px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-size: 16px;
+  border-radius: 6px;
+  border: 1px;
+}
+
+.linkedInButton {
+  height: 34px;
+  width: 151px;
+  display: flex;
+  justify-content: center;
+  gap: 2px;
+  align-items: center;
+  background-color: #5093e2;
+  color: white;
+  font-size: 16px;
+  border-radius: 6px;
+  border: 1px;
+}
+.Buttons {
+
+}
+
+/* .linkedin{
+  padding-top: 1.33px;
+  padding-left: 1.33px;
+}
+.email{
+  padding-top: 1.33px;
+  padding-left: 1.33px;
+} */
+
+.emailLink {
+  text-decoration: none;
+  color: black;
+}
+
+.linkedinLink {
+  text-decoration: none;
+  color: white;
+}
+
+.about {
+  /* margin-left: -215px; */
+  color: aliceblue;
+  font-size: 25px;
+  font-weight: 700;
+  /* padding-top: -20px; */
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.essayContent {
+  /* flex: content; */
+  /* text-align: left; */
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+  color: aliceblue;
+  font-size: 10.24px;
+  font-weight: 400;
+  line-height: 15.36px;
+  /* padding-right: 75px; */
+  margin-left: 20px;
+}
+
+.intrests {
+  /* margin-left: -205px; */
+  color: aliceblue;
+  font-size: 25px;
+  font-weight: 700;
+  /* padding-top: -20px; */
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.intrestsContent {
+  /* text-align: left; */
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+  color: aliceblue;
+  font-size: 10.24px;
+  font-weight: 400;
+  line-height: 15.36px;
+  padding-right: 75px;
+  margin-bottom: 50px;
+  margin-left: 20px;
+}
+.footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #161619;
+  color: white;
+}
+.icon1 {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+.icon2 {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+
+.icon3 {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+
+.icon4 {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+
+.buttonContainer{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
